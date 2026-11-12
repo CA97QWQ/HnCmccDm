@@ -1,0 +1,5 @@
+*.apk
+apk_work/
+audit_out/
+jadx_*/
+sources/
